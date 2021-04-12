@@ -15,8 +15,11 @@ Flask-SQLAlchemy-2.4.4
 General Info:
 
 JWT stands for JSON WEB TOKEN, is a secure way of transferring random tokens between two parties or entities.
+
 API (application programming interface) allows communication between two applications to retrieve or submit the data.
+
 REST API falls under the request-response category.
+
 Flask is a micro-framework used by python developers to build rest API.
 
 Pre-requisites: 
