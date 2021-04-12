@@ -8,8 +8,11 @@ A RESTAPI with Flask using Token based authentication.
 Technologies:
 
 Flask
+
 Flask-RESTFUL-0.3.8 
+
 Flask-JWT_Extended-4.1.0
+
 Flask-SQLAlchemy-2.4.4
 
 General Info:
@@ -23,7 +26,9 @@ REST API falls under the request-response category.
 Flask is a micro-framework used by python developers to build rest API.
 
 Pre-requisites: 
+
  requirements.txt
+ 
   Flask
   Flask-RESTFUL-0.3.8 
   Flask-JWT_Extended-4.1.0
@@ -31,16 +36,27 @@ Pre-requisites:
   PyJWT-2.0.1
   
 Scope of functionalities:
+
     API endpoints:
+    
       User registration
+      
       User Login
+      
       Query registered users.
+      
       Delete registered users.
+      
       Add a New Author
+      
       Query Authors
-      Delete An/All Author
+      
+      Delete One/All Authors
+      
       Revoke Access Token
+      
       Reinstate Access Token
+      
       Revoke Refresh Token
 
 Screenshots using Postman utility:
