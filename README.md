@@ -1,5 +1,5 @@
 # Flask-RestAPI-jwt
-A Flask Rest API with user authentication taking consideration the updates of Flask-JWT-Extended version 4.1
+A Flask Rest API with user authentication taking into consideration the updates of Flask-JWT-Extended version 4.1
 
 Introduction:
 
